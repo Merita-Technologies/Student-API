@@ -8,6 +8,7 @@
 		<version>3.5.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<!-- This is a just comment -->
 	<groupId>com.merita</groupId>
 	<artifactId>student-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
